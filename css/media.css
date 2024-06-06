@@ -58,6 +58,9 @@
         margin: 20px 0;
         text-align: center;
     }
-    
 
+    .footer{
+    padding-top: 45px;
+    padding-bottom: 45px;
+    }
 }
